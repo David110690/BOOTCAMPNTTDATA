@@ -1,0 +1,6 @@
+[submodule "configserver"]
+	path = configserver
+	url = https://github.com/juansoto90/configserver.git
+[submodule "eurekaserver"]
+	path = eurekaserver
+	url = https://github.com/juansoto90/eurekaserver.git
