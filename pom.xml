@@ -44,6 +44,7 @@
 		<module>eurekaserver</module>
 		<module>mscustomer_bank</module>
 		<module>msproduct_bank</module>
+		<module>msoperations_bank</module>
 	</modules>
 
 </project>
