@@ -42,8 +42,8 @@
 	<modules>
 		<module>configserver</module>
 		<module>eurekaserver</module>
-		<module>msproducto_bank</module>
 		<module>mscustomer_bank</module>
+		<module>msproduct_bank</module>
 	</modules>
 
 </project>
