@@ -10,6 +10,3 @@
 [submodule "msproduct_bank"]
 	path = msproduct_bank
 	url = https://github.com/David110690/msproduct_bank
-[submodule "msoperations_bank"]
-	path = msoperations_bank
-	url = https://github.com/David110690/msoperations_bank
