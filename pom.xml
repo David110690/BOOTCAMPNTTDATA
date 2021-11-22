@@ -45,6 +45,7 @@
 		<module>mscustomer_bank</module>
 		<module>msproduct_bank</module>
 		<module>msoperations_bank</module>
+		<module>msmanage_bank</module>
 	</modules>
 
 </project>
