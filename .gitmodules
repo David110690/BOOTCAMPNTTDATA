@@ -4,3 +4,6 @@
 [submodule "eurekaserver"]
 	path = eurekaserver
 	url = https://github.com/juansoto90/eurekaserver.git
+[submodule "msproducto_bank"]
+	path = msproducto_bank
+	url = https://github.com/juansoto90/msproducto_bank.git
