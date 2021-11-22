@@ -7,3 +7,6 @@
 [submodule "msproducto_bank"]
 	path = msproducto_bank
 	url = https://github.com/juansoto90/msproducto_bank.git
+[submodule "mscustomer_bank"]
+	path = mscustomer_bank
+	url = https://github.com/David110690/mscustomer_bank
