@@ -16,3 +16,6 @@
 [submodule "configserver"]
 	path = configserver
 	url = https://github.com/David110690/configserver
+[submodule "gatewayserver"]
+	path = gatewayserver
+	url = https://github.com/David110690/gatewayserver
