@@ -6,7 +6,7 @@ server:
   port: 8184
 spring:
   application:
-    name: service-customer
+    name: mscustomer_bank
 management:
   endpoints:
     web:
