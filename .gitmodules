@@ -10,3 +10,9 @@
 [submodule "msmanage_bank"]
 	path = msmanage_bank
 	url = https://github.com/David110690/msmanage_bank
+[submodule "eurekaserver"]
+	path = eurekaserver
+	url = https://github.com/David110690/eurekaserver
+[submodule "configserver"]
+	path = configserver
+	url = https://github.com/David110690/configserver
