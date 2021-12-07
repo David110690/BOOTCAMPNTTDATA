@@ -10,7 +10,11 @@ spring:
         - id: service-customer
           uri: http://localhost:8184/
           predicates:
-            - Path=/customer/**
+            - Path=/api/customers/**
+        - id: service-product
+          uri: http://localhost:8182/
+          predicates:
+            - Path=/api/products/**
 eureka:
   client:
     serviceUrl:
